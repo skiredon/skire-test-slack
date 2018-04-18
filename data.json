@@ -1,0 +1,34 @@
+{
+    "UA93WBZN1": {
+        "_name": "alexfom299",
+        "_real_name": "Skiredon2 Test",
+        "messages": [
+            [
+                "hello again",
+                "2018-04-18 20:11:58"
+            ],
+            [
+                "456",
+                "2018-04-18 20:13:15"
+            ]
+        ]
+    },
+    "UA9FGH19V": {
+        "_name": "skiredon",
+        "_real_name": "Evgeny Lugansky",
+        "messages": [
+            [
+                "test message",
+                "2018-04-18 20:11:43"
+            ],
+            [
+                "good morning!",
+                "2018-04-18 20:12:23"
+            ],
+            [
+                "123",
+                "2018-04-18 20:12:58"
+            ]
+        ]
+    }
+}
