@@ -5,8 +5,8 @@ import json
 import requests
 from slackclient import SlackClient
 
-TOKEN = 'xoxb-348528344930-0bPU7drO675BY16UNo42oX9K'
-#TOKEN = os.environ.get('TOKEN')
+#TOKEN = 'xoxb-348528344930-XXXXXXXXXXXXXXXXXXXXXXX'
+TOKEN = os.environ.get('TOKEN')
 slack_client = SlackClient(TOKEN)
 bot_id = None
 
